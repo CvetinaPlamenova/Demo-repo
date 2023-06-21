@@ -1,2 +1,2 @@
 # Demo-repository
-This is Demo repo from QA Course 2023.
+This is Demo repo from QA Curse - Software Technologies.
